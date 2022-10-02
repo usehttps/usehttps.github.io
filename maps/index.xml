@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 02:22:47 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 21:34:28 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luxembourg</title>
+      <link>https://usehttps.github.io/maps/luxembourg/</link>
+      <pubDate>Sun, 02 Oct 2022 21:34:28 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/luxembourg/</guid>
+      <description>Luxembourg city network map (AVL)
+Latest Maps</description>
+    </item>
+    
     <item>
       <title>Abu Dhabi</title>
       <link>https://usehttps.github.io/maps/abudhabi/</link>
