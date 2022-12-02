@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/maps/delhi/</loc>
-    <lastmod>2022-11-30T10:30:33+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2022-11-30T10:30:33+01:00</lastmod>
+    <lastmod>2022-12-02T23:33:33+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/mumbai/</loc>
+    <lastmod>2022-12-02T23:33:33+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2022-12-02T23:33:33+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/delhi/</loc>
     <lastmod>2022-11-30T10:30:33+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/miami/</loc>
