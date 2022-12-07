@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 06 Dec 2022 23:38:33 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 13:23:20 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oslo</title>
+      <link>https://usehttps.github.io/maps/oslo/</link>
+      <pubDate>Wed, 07 Dec 2022 13:23:20 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/oslo/</guid>
+      <description>Public transport Ruter Provides tickets and schedules for all public transport within Oslo. Find trams (trikk), subways (T-bane), ferries (ferge), local trains (lokaltog) and busses (buss) on the website or in the Ruter app. You can also buy travelcards and tickets in some kiosks (Narvesen, 7-Eleven, Deli de Luca and Mix).
+Go to ruter.no
+Entur Entur finds journeys across all transport options in all cities in Norway. The goal is to make it easier to choose public transport for travels.</description>
+    </item>
+    
     <item>
       <title>Copenhagen</title>
       <link>https://usehttps.github.io/maps/copenhagen/</link>
