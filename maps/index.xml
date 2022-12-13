@@ -7,7 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 09 Dec 2022 01:14:05 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 04:59:09 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seoul</title>
+      <link>https://usehttps.github.io/maps/seoul/</link>
+      <pubDate>Tue, 13 Dec 2022 04:59:09 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/seoul/</guid>
+      <description>Public transportation/Metro/Bus map pdf download Including interactive route search
+https://www.seoulmetro.co.kr/en
+Incheon Airport Departure Schedule https://www.airport.kr/ap/en/dep/depPasSchList.do
+Arrival Schedule - Incheon Airport https://www.airport.kr/ap/en/arr/arrPasSchList.do
+Attractions https://www.airport.kr/ap/en/svc/attractionMain.do
+Airlines by terminal - Incheon Airport https://www.airport.kr/ap/en/svc/airlinesTerInfoList.do
+Transfer https://www.airport.kr/ap_cnt/en/trn/intro/intro.do
+Transit Tour Information Desk Location https://www.airport.kr/ap_cnt/en/trn/tour/trtour/trtour.do
+Public Transport - Incheon Airport https://www.airport.kr/ap_cnt/en/tpt/pblctpt/pblctpt.do
+Duty-Free Shop https://www.airport.kr/ap/en/shp/getDutyInfoMain.do
+Airport Railroad https://www.airport.kr/ap_lp/en/tpt/pblctpt/airtrainf/airtrainf.do
+Taxi - Incheon Airport https://www.airport.kr/ap/en/tpt/pblcTptTaxi.do
+Bus routes - Incheon Airport https://www.airport.kr/ap/en/tpt/busRouteList.do
+Seoul travel guide Foods http://english.visitkorea.or.kr/enu/FOD/FOD_MAIN.kto
+Shopping http://english.visitkorea.or.kr/enu/SHP/SHP_MAIN.kto
+TRAVEL INFORMATION http://english.</description>
+    </item>
+    
     <item>
       <title>Helsinki</title>
       <link>https://usehttps.github.io/maps/helsinki/</link>
