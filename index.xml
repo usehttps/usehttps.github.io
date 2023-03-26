@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 11 Feb 2023 10:30:33 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 06:43:10 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moscow</title>
+      <link>https://usehttps.github.io/maps/moscow/</link>
+      <pubDate>Sun, 26 Mar 2023 06:43:10 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/moscow/</guid>
+      <description>Metro map https://mosmetro.ru/metro-map/
+https://transport.mos.ru/common/upload/docs/map/s.pdf
+Tram http://none.ru/files/mostram_map.pdf
+Bus https://static.urbica.co/projects/longread/img/magistral.pdf
+Airport https://www.svo.aero/en/main</description>
+    </item>
+    
     <item>
       <title>Singapore</title>
       <link>https://usehttps.github.io/maps/singapore/</link>
