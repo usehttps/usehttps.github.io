@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 26 Mar 2023 06:43:10 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 09:00:21 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mallorca</title>
+      <link>https://usehttps.github.io/maps/mallorca/</link>
+      <pubDate>Wed, 29 Mar 2023 09:00:21 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/mallorca/</guid>
+      <description>Public transport map https://www.tib.org/en/xarxa-de-transports/mapa-linies
+Bus lines and bus stops https://www.emtpalma.cat/en/bus-stops
+Palma de Mallorca Airport https://www.palmaairport.info/
+Departures https://www.palmaairport.info/mallorca-airport-pmi-flight-departures-today/
+Bus to and from airport https://www.palmaairport.info/public-transport/taking-the-bus-from-palma-airport/
+Train link to Palma Airport https://www.palmaairport.info/public-transport/taking-the-train-in-mallorca/
+Internet access at Palma Airport https://www.palmaairport.info/airport/airport-services-facilities/internet-wifi/
+Shops and Stores at Palma Airport https://www.palmaairport.info/airport/shops-and-stores-at-palma-airport/
+Places to eat and drink at Palma Airport https://www.palmaairport.info/airport/airport-services-facilities/places-to-eat-drink/</description>
+    </item>
+    
     <item>
       <title>Moscow</title>
       <link>https://usehttps.github.io/maps/moscow/</link>

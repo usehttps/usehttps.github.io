@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-03-26T06:43:10+02:00</lastmod>
+    <loc>https://usehttps.github.io/maps/mallorca/</loc>
+    <lastmod>2023-03-29T09:00:21+02:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/maps/moscow/</loc>
-    <lastmod>2023-03-26T06:43:10+02:00</lastmod>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-03-29T09:00:21+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-03-29T09:00:21+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/moscow/</loc>
     <lastmod>2023-03-26T06:43:10+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/singapore/</loc>
