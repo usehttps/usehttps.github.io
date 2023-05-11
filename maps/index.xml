@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 29 Mar 2023 09:00:21 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 15:49:55 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All</title>
+      <link>https://usehttps.github.io/maps/all/</link>
+      <pubDate>Thu, 11 May 2023 15:49:55 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/all/</guid>
+      <description>Here you can find all cities travel map and information we made.
+City wise Country wise </description>
+    </item>
+    
     <item>
       <title>Mallorca</title>
       <link>https://usehttps.github.io/maps/mallorca/</link>
