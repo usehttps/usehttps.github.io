@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 11 May 2023 15:49:55 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 07:00:28 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rome</title>
+      <link>https://usehttps.github.io/maps/rome/</link>
+      <pubDate>Sat, 15 Jul 2023 07:00:28 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/rome/</guid>
+      <description>Public transportation Find the route
+Use Google Map to find the route.
+https://play.google.com/store/apps/details?id=com.google.android.apps.maps&amp;amp;hl=en&amp;amp;gl=US
+Inside Rome, use metro and bus.
+https://www.atac.roma.it/utility/mappe
+Outside Rome or taxi
+Use Free Now or Uber. Free Now is much cheaper.
+Android: https://play.google.com/store/apps/details?id=taxi.android.client
+iPhone: https://apps.apple.com/US/app/id357852748?mt=8 You can find FreeNow option in Google Map search below all other options.
+From/to airport Fiumicino Aeroporto
+Use fast train (RV/REG) by Trenitalia (8~14 Euro) or SIT Bus Shuttle (~7 Euro) or Free Now taxi (~50 Euro).</description>
+    </item>
+    
     <item>
       <title>All</title>
       <link>https://usehttps.github.io/maps/all/</link>
