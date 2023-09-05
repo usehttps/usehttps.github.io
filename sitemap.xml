@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-07-15T07:00:28+02:00</lastmod>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2023-09-03T00:11:23+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/italy/</loc>
+    <lastmod>2023-09-03T00:11:23+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-09-03T00:11:23+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
     <lastmod>2023-07-15T07:00:28+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/rome/</loc>
