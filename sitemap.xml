@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2023-09-21T11:29:01+02:00</lastmod>
+    <loc>https://usehttps.github.io/howto/addpdf/</loc>
+    <lastmod>2023-09-22T10:31:18+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/howto/apps/</loc>
+    <lastmod>2023-09-22T10:31:18+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/howto/</loc>
+    <lastmod>2023-09-22T10:31:18+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-09-22T10:31:18+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
     <lastmod>2023-09-21T11:29:01+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/swiss/</loc>
