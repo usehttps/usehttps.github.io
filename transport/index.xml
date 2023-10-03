@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transports on my trip navigation</title>
+    <link>https://usehttps.github.io/transport/</link>
+    <description>Recent content in Transports on my trip navigation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 30 Sep 2023 11:40:10 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kualalumpur</title>
+      <link>https://usehttps.github.io/transport/kualalumpur/</link>
+      <pubDate>Sat, 30 Sep 2023 11:40:10 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/kualalumpur/</guid>
+      <description>Our offline app for Kuala Lumpur HERE
+How to Get Around by Public Transportation MRT, KTM, LRT, KL, KLIA, BRT, RapidKL https://www.mymrt.com.my/projects/travel-with-mrt/
+GOKL https://www.malaysia-traveller.com/KL-City-Bus.html
+Kuala Lumpur International Lumpur (KLIA) Airport Departure flight information https://airports.malaysiaairports.com.my/flight-information/departures
+Arriving flights https://airports.malaysiaairports.com.my/flight-information/arrivals
+Transit guide https://airports.malaysiaairports.com.my/transit/flight-transfers
+Getting to the Airport https://airports.malaysiaairports.com.my/getting-around/transport/public-transport Airport express:https://www.kliaekspres.com/
+Airport map T1: https://airports.malaysiaairports.com.my/shop-dine-services/terminal-1-floor-map
+T2: https://airports.malaysiaairports.com.my/klia2/shop-dine-services/terminal-2-floor-map
+Transfer between terminals https://airports.malaysiaairports.com.my/transit/inter-terminal-transfer
+Shop, Dine, Relax and do more Dine T1: https://airports.malaysiaairports.com.my/shop-dine-services/shop
+T2: https://airports.malaysiaairports.com.my/klia2/shop-dine-services/dine
+Shop T1: https://airports.</description>
+    </item>
+    
+  </channel>
+</rss>
