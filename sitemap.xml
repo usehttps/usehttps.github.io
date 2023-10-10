@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2023-10-10T13:09:44+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/hongkong/</loc>
+    <lastmod>2023-10-10T13:09:44+02:00</lastmod>
+  </url><url>
     <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-10-05T00:31:27+02:00</lastmod>
+    <lastmod>2023-10-10T13:09:44+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/bangkok/</loc>
+    <lastmod>2023-10-10T00:08:15+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-10-10T00:08:15+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/taipei/</loc>
     <lastmod>2023-10-05T00:31:27+02:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
-    <lastmod>2023-10-05T00:31:27+02:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/kualalumpur/</loc>
     <lastmod>2023-09-30T11:40:10+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2023-09-30T11:37:53+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/malaysia/</loc>
     <lastmod>2023-09-30T11:37:53+02:00</lastmod>
