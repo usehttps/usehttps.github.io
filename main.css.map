@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/ntt/Documents/956_blog/usehttpsMytripnaviTranSwedPrivate",
+	"sourceRoot": "C:/Users/cww/Documents/956_blog/usehttpsMytripnaviTranSwedPrivate",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
