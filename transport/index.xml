@@ -7,7 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 16 Oct 2023 13:44:54 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/transport/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2023 13:51:03 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moscow</title>
+      <link>https://usehttps.github.io/transport/moscow/</link>
+      <pubDate>Tue, 17 Oct 2023 13:51:03 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/moscow/</guid>
+      <description>Metro map https://mosmetro.ru/metro-map/
+https://transport.mos.ru/common/upload/docs/map/s.pdf
+Tram http://none.ru/files/mostram_map.pdf
+Bus https://static.urbica.co/projects/longread/img/magistral.pdf
+Airport https://www.svo.aero/en/main</description>
+    </item>
+    
+    <item>
+      <title>Brussels</title>
+      <link>https://usehttps.github.io/transport/brussels/</link>
+      <pubDate>Tue, 17 Oct 2023 13:45:49 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/brussels/</guid>
+      <description>MIVB, STIB network maps Journey Planner:
+https://www.stib-mivb.be/tripplanner/?l=en Network Map
+Metro / Tram / Train Map + PRM
+NOCTIS Network Map
+Dynamic Maps
+Journey Planner
+Latest Offline Maps for DL
+THE BRUPASS ZONE
+THE BRUPASS XL ZONE
+Brussels Airport Airport Map
+Airport HP
+Flights
+Take the train to the airport
+Retaurants &amp;amp; bars
+Shops
+Dining
+Digest Services, ATM, Luggage, Pharmacy, Info desk
+Travelling with children</description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>https://usehttps.github.io/transport/singapore/</link>
+      <pubDate>Tue, 17 Oct 2023 13:34:25 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/singapore/</guid>
+      <description>How to Get Around System Map of Rail Network https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html Latest system map pdf here: https://www.lta.gov.sg/content/dam/ltagov/getting_around/public_transport/rail_network/pdf/tel3_sm-en.pdf
+Search for fare and information with the SimpleGo Travel Guide. https://www.transitlink.com.sg/travel-guide/
+SBS Transit/SMRT Bus transit: https://www.transitlink.com.sg/eservice/eguide/service_idx.php Singapore Changi Airport Departure flight information https://www.changiairport.com/en/flights/departures.html
+Arriving flights https://www.changiairport.com/en/flights/arrivals.html
+Transit guide https://www.changiairport.com/en/maps.html
+Airport map https://www.changiairport.com/en/maps.html
+Getting to the Airport https://www.changiairport.com/en/airport-guide/transport/getting-to-the-airport.html
+Transfer between terminals and Jewel https://www.changiairport.com/en/airport-guide/transport/transfer-between-terminals-and-jewel.html
+Shop, Dine, Relax and do more Dine https://www.changiairport.com/content/cag/en/dine/local-and-global-cuisines.html
+Shop https://www.changiairport.com/content/cag/en/shop/world-class-shopping.html
+Facilities and Services https://www.</description>
+    </item>
+    
     <item>
       <title>Hongkong</title>
       <link>https://usehttps.github.io/transport/hongkong/</link>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on my trip navigation</title>
+    <link>https://usehttps.github.io/apps/</link>
+    <description>Recent content in Apps on my trip navigation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 17 Oct 2023 13:42:35 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bangkok</title>
+      <link>https://usehttps.github.io/apps/bangkok/</link>
+      <pubDate>Tue, 17 Oct 2023 13:42:35 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/bangkok/</guid>
+      <description>Our offline app for Bangkok HERE </description>
+    </item>
+    
+    <item>
+      <title>Brussels</title>
+      <link>https://usehttps.github.io/apps/brussels/</link>
+      <pubDate>Tue, 17 Oct 2023 13:42:28 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/brussels/</guid>
+      <description>Our offline app for Brussels HERE </description>
+    </item>
+    
+    <item>
+      <title>Moscow</title>
+      <link>https://usehttps.github.io/apps/moscow/</link>
+      <pubDate>Tue, 17 Oct 2023 13:42:23 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/moscow/</guid>
+      <description>Our offline app for Moscow HERE </description>
+    </item>
+    
+    <item>
+      <title>Taipei</title>
+      <link>https://usehttps.github.io/apps/taipei/</link>
+      <pubDate>Tue, 17 Oct 2023 13:42:10 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/taipei/</guid>
+      <description>Our offline app for Taipei HERE </description>
+    </item>
+    
+    <item>
+      <title>Hongkong</title>
+      <link>https://usehttps.github.io/apps/hongkong/</link>
+      <pubDate>Tue, 17 Oct 2023 13:40:49 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/hongkong/</guid>
+      <description>Our offline app for Hong Kong HERE </description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>https://usehttps.github.io/apps/singapore/</link>
+      <pubDate>Tue, 17 Oct 2023 13:38:05 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/singapore/</guid>
+      <description>Our offline app for Singapore HERE </description>
+    </item>
+    
+  </channel>
+</rss>
