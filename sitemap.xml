@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2023-10-27T18:03:34+02:00</lastmod>
+    <lastmod>2023-10-27T19:34:38+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-10-27T19:34:38+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/uk/</loc>
+    <lastmod>2023-10-27T19:34:38+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2023-10-27T19:34:30+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/london/</loc>
+    <lastmod>2023-10-27T19:34:30+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/london/</loc>
+    <lastmod>2023-10-27T19:33:53+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-10-27T19:33:53+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/london/</loc>
+    <lastmod>2023-10-27T19:33:18+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-10-27T19:33:18+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/japan/</loc>
     <lastmod>2023-10-27T18:03:34+02:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-10-27T18:03:34+02:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/japan/</loc>
     <lastmod>2023-10-27T18:02:11+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
-    <lastmod>2023-10-27T18:02:11+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-10-24T21:26:05+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/sydney/</loc>
     <lastmod>2023-10-24T21:26:05+02:00</lastmod>
@@ -105,9 +120,6 @@
     <lastmod>2023-09-30T11:37:53+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/kualalumpur/</loc>
-    <lastmod>2023-09-30T11:23:33+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
     <lastmod>2023-09-30T11:23:33+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/howto/addpdf/</loc>
