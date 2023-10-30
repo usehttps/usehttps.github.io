@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 27 Oct 2023 19:33:53 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/transport/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 10:07:16 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boston</title>
+      <link>https://usehttps.github.io/transport/boston/</link>
+      <pubDate>Mon, 30 Oct 2023 10:07:16 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/boston/</guid>
+      <description>How to Get Around by Public Transportation Trip planner https://www.mbta.com/
+MBTA Bus Map https://cdn.mbta.com/sites/default/files/2023-03/2023-3-13-system-map.pdf
+MBTA Subway https://cdn.mbta.com/sites/default/files/2022-12/2022-12-12-subway-map-v37f.pdf
+MBTA Commuter Rail Map https://cdn.mbta.com/sites/default/files/2023-01/2023-01-23-commuter-rail-map.pdf
+MBTA Ferry Route Map https://cdn.mbta.com/sites/default/files/media/2022-09/2022-09-12-ferry-map.png
+xxx Airport Departure flight information Arriving flights Transit guide Getting to the Airport Airport map Transfer between terminals Shop, Dine, Relax and do more Dine Shop Facilities and Services Lounges Other Experiences </description>
+    </item>
+    
     <item>
       <title>London</title>
       <link>https://usehttps.github.io/transport/london/</link>
