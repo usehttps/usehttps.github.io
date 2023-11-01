@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-10-31T14:42:21+01:00</lastmod>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/losangeles/</loc>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/losangeles/</loc>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/losangeles/</loc>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-10-31T14:42:21+01:00</lastmod>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-10-31T14:42:21+01:00</lastmod>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-11-01T02:29:15+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/sanfrancisco/</loc>
     <lastmod>2023-10-31T14:42:21+01:00</lastmod>
@@ -18,9 +30,6 @@
     <lastmod>2023-10-31T14:42:21+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/sanfrancisco/</loc>
-    <lastmod>2023-10-31T14:42:21+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-10-31T14:42:21+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/nyc/</loc>
