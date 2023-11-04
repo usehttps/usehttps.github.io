@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usehttps.github.io/foods/canada/</loc>
+    <lastmod>2023-11-04T02:26:25+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2023-11-04T02:26:25+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-11-04T02:26:25+01:00</lastmod>
+  </url><url>
     <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-11-03T10:44:53+01:00</lastmod>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/vancouver/</loc>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/vancouver/</loc>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/vancouver/</loc>
+    <lastmod>2023-11-04T02:26:24+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/miami/</loc>
     <lastmod>2023-11-03T10:44:53+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/miami/</loc>
-    <lastmod>2023-11-03T10:44:53+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-11-03T10:44:53+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-11-03T10:44:53+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/chicago/</loc>
@@ -24,9 +42,6 @@
     <lastmod>2023-11-01T22:09:12+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/chicago/</loc>
-    <lastmod>2023-11-01T22:09:12+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
     <lastmod>2023-11-01T22:09:12+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/sandiego/</loc>
@@ -85,9 +100,6 @@
   </url><url>
     <loc>https://usehttps.github.io/transport/boston/</loc>
     <lastmod>2023-10-30T10:07:16+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2023-10-27T19:34:38+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/uk/</loc>
     <lastmod>2023-10-27T19:34:38+02:00</lastmod>
