@@ -7,7 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 04 Nov 2023 02:26:25 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Nov 2023 15:13:24 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toronto</title>
+      <link>https://usehttps.github.io/apps/toronto/</link>
+      <pubDate>Sun, 05 Nov 2023 15:13:24 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/toronto/</guid>
+      <description>Our offline app for HERE </description>
+    </item>
+    
+    <item>
+      <title>Toronto</title>
+      <link>https://usehttps.github.io/maps/toronto/</link>
+      <pubDate>Sun, 05 Nov 2023 15:13:24 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/toronto/</guid>
+      <description>Our offline app for HERE How to Get Around by Public Transportation 1 Bus, subway, steetcar map
+Routes and schedules: https://www.ttc.ca/routes-and-schedules GO Transit「System Map」 https://www.gotransit.com/en/system-map City of Toronto「All Ferry Schedules」 https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/all-ferry-schedules/ Toronto Harbour Water Taxi https://www.torontoharbourwatertaxi.com/ Bicycle-PBSC (previously CycleFinder) https://play.google.com/store/apps/details?id=pbsc.bikes VIA rail https://www.viarail.ca/en/explore-our-destinations/trains AMTRAK「The Amtrak Network」 https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf Tips PRESTO card https://www.prestocard.ca/ Apps Offline travel guide map: https://play.google.com/store/apps/details?id=com.mytripnavi.app.toronto VIA Rail https://play.google.com/store/apps/details?id=com.viarail.reservia Toronto Pearson Airport Departure and Arrival Flights Departure flight information https://www.</description>
+    </item>
+    
+    <item>
+      <title>Toronto</title>
+      <link>https://usehttps.github.io/transport/toronto/</link>
+      <pubDate>Sun, 05 Nov 2023 15:13:23 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/transport/toronto/</guid>
+      <description>How to Get Around by Public Transportation 1 Bus, subway, steetcar map
+Routes and schedules: https://www.ttc.ca/routes-and-schedules GO Transit「System Map」 https://www.gotransit.com/en/system-map City of Toronto「All Ferry Schedules」 https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/all-ferry-schedules/ Toronto Harbour Water Taxi https://www.torontoharbourwatertaxi.com/ Bicycle-PBSC (previously CycleFinder) https://play.google.com/store/apps/details?id=pbsc.bikes VIA rail https://www.viarail.ca/en/explore-our-destinations/trains AMTRAK「The Amtrak Network」 https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf Tips PRESTO card https://www.prestocard.ca/ Apps Offline travel guide map: https://play.google.com/store/apps/details?id=com.mytripnavi.app.toronto VIA Rail https://play.google.com/store/apps/details?id=com.viarail.reservia Toronto Pearson Airport Departure and Arrival Flights Departure flight information https://www.torontopearson.com/en/departures Arriving flights https://www.torontopearson.com/en/arrivals Transit guide-Connecting flights Getting to the Airport https://www.</description>
+    </item>
+    
     <item>
       <title>Canada</title>
       <link>https://usehttps.github.io/foods/canada/</link>
@@ -32,7 +61,8 @@
       <pubDate>Sat, 04 Nov 2023 02:26:24 +0100</pubDate>
       
       <guid>https://usehttps.github.io/maps/vancouver/</guid>
-      <description>How to Get Around by Public Transportation TransLink「Complete Metro Vancouver Transit System Map」 https://www.translink.ca/schedules-and-maps/bus-schedules TransLink「SkyTrain Schedules」 https://www.translink.ca/schedules-and-maps/skytrain TransLink「West Coast Express Schedules」 https://www.translink.ca/schedules-and-maps/west-coast-express VIA-RAIL「Explore Canada by Train」 https://www.viarail.ca/en/explore-our-destinations/trains ransLink「SeaBus Schedules」 https://www.translink.ca/schedules-and-maps/seabus FALSE CREEK FERRIES「Plan Your Trip」 https://granvilleislandferries.bc.ca/plan-your-trip/ Aquabus「Plan Your Trip with the Aquabus Granville Island False Creek Ferry」 https://theaquabus.com/ BC Ferries「Explore our routes」 https://www.bcferries.com/routes-fares/discover-route-map Taxi, Uber, Lyft Uber https://play.google.com/store/search?q=uber&amp;amp;c=apps Lyft https://play.google.com/store/apps/details?id=me.lyft.android Mobi by Shaw Go - Vancouver https://play.google.com/store/apps/details?id=com.choosit.smoove Tips Compass Card The Compass card is a contactless smart card automated fare collection system used primarily for public transit in Metro Vancouver, British Columbia, Canada.</description>
+      <description>How to Get Around by Public Transportation Interactive System Map https://www.translink.ca/schedules-and-maps/interactive-system-map Trip Planner https://tripplanning.translink.ca/#/app/tripplanning
+TransLink「Complete Metro Vancouver Transit System Map」 https://www.translink.ca/schedules-and-maps/bus-schedules TransLink「SkyTrain Schedules」 https://www.translink.ca/schedules-and-maps/skytrain TransLink「West Coast Express Schedules」 https://www.translink.ca/schedules-and-maps/west-coast-express VIA-RAIL「Explore Canada by Train」 https://www.viarail.ca/en/explore-our-destinations/trains ransLink「SeaBus Schedules」 https://www.translink.ca/schedules-and-maps/seabus FALSE CREEK FERRIES「Plan Your Trip」 https://granvilleislandferries.bc.ca/plan-your-trip/ Aquabus「Plan Your Trip with the Aquabus Granville Island False Creek Ferry」 https://theaquabus.com/ BC Ferries「Explore our routes」 https://www.bcferries.com/routes-fares/discover-route-map Taxi, Uber, Lyft Uber https://play.google.com/store/search?q=uber&amp;amp;c=apps Lyft https://play.google.com/store/apps/details?id=me.lyft.android Mobi by Shaw Go - Vancouver https://play.</description>
     </item>
     
     <item>
@@ -41,7 +71,8 @@
       <pubDate>Sat, 04 Nov 2023 02:26:24 +0100</pubDate>
       
       <guid>https://usehttps.github.io/transport/vancouver/</guid>
-      <description>How to Get Around by Public Transportation TransLink「Complete Metro Vancouver Transit System Map」 https://www.translink.ca/schedules-and-maps/bus-schedules TransLink「SkyTrain Schedules」 https://www.translink.ca/schedules-and-maps/skytrain TransLink「West Coast Express Schedules」 https://www.translink.ca/schedules-and-maps/west-coast-express VIA-RAIL「Explore Canada by Train」 https://www.viarail.ca/en/explore-our-destinations/trains ransLink「SeaBus Schedules」 https://www.translink.ca/schedules-and-maps/seabus FALSE CREEK FERRIES「Plan Your Trip」 https://granvilleislandferries.bc.ca/plan-your-trip/ Aquabus「Plan Your Trip with the Aquabus Granville Island False Creek Ferry」 https://theaquabus.com/ BC Ferries「Explore our routes」 https://www.bcferries.com/routes-fares/discover-route-map Taxi, Uber, Lyft Uber https://play.google.com/store/search?q=uber&amp;amp;c=apps Lyft https://play.google.com/store/apps/details?id=me.lyft.android Mobi by Shaw Go - Vancouver https://play.google.com/store/apps/details?id=com.choosit.smoove Tips Compass Card The Compass card is a contactless smart card automated fare collection system used primarily for public transit in Metro Vancouver, British Columbia, Canada.</description>
+      <description>How to Get Around by Public Transportation Interactive System Map https://www.translink.ca/schedules-and-maps/interactive-system-map Trip Planner https://tripplanning.translink.ca/#/app/tripplanning
+TransLink「Complete Metro Vancouver Transit System Map」 https://www.translink.ca/schedules-and-maps/bus-schedules TransLink「SkyTrain Schedules」 https://www.translink.ca/schedules-and-maps/skytrain TransLink「West Coast Express Schedules」 https://www.translink.ca/schedules-and-maps/west-coast-express VIA-RAIL「Explore Canada by Train」 https://www.viarail.ca/en/explore-our-destinations/trains ransLink「SeaBus Schedules」 https://www.translink.ca/schedules-and-maps/seabus FALSE CREEK FERRIES「Plan Your Trip」 https://granvilleislandferries.bc.ca/plan-your-trip/ Aquabus「Plan Your Trip with the Aquabus Granville Island False Creek Ferry」 https://theaquabus.com/ BC Ferries「Explore our routes」 https://www.bcferries.com/routes-fares/discover-route-map Taxi, Uber, Lyft Uber https://play.google.com/store/search?q=uber&amp;amp;c=apps Lyft https://play.google.com/store/apps/details?id=me.lyft.android Mobi by Shaw Go - Vancouver https://play.</description>
     </item>
     
     <item>
