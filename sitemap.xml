@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-11-06T00:47:18+01:00</lastmod>
+    <loc>https://usehttps.github.io/maps/calgary/</loc>
+    <lastmod>2023-11-07T01:31:36+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-11-06T00:47:18+01:00</lastmod>
+    <lastmod>2023-11-07T01:31:36+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-11-07T01:31:36+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2023-11-07T01:31:35+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/calgary/</loc>
+    <lastmod>2023-11-07T01:31:35+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/calgary/</loc>
+    <lastmod>2023-11-07T01:31:35+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-11-07T01:31:35+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/montreal/</loc>
     <lastmod>2023-11-06T00:47:18+01:00</lastmod>
@@ -15,12 +30,6 @@
     <lastmod>2023-11-06T00:47:18+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/montreal/</loc>
-    <lastmod>2023-11-06T00:47:18+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-11-06T00:47:18+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-11-06T00:47:18+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/victoria/</loc>
