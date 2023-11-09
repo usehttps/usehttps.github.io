@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 09 Nov 2023 08:00:15 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2023 12:29:00 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japan</title>
+      <link>https://usehttps.github.io/apps/japan/</link>
+      <pubDate>Thu, 09 Nov 2023 12:29:00 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/japan/</guid>
+      <description>Our offline app for Tokyo HERE Our offline app for Tokyo HERE
+Our offline app for Tokyo HERE</description>
+    </item>
+    
     <item>
       <title>Edmonton</title>
       <link>https://usehttps.github.io/apps/edmonton/</link>
@@ -1381,7 +1391,7 @@ Buses around the Northern Beaches (pdf 1.2MB) Eastern and south eastern suburbs 
       <pubDate>Tue, 01 Nov 2022 08:02:31 +0100</pubDate>
       
       <guid>https://usehttps.github.io/maps/japan/</guid>
-      <description>Our offline app for Tokyo HERE
+      <description>Our offline app for Tokyo HERE Our offline app for Tokyo HERE
 Our offline app for Tokyo HERE
 Things you need to know before going to Japan for a smooth go “Fast Track”(for quarantine) and Visit Japan web service (for immigration and customs declaration)
 Visit Japan Web: https://vjw-lp.digital.go.jp/en/ Visit Japan Web is a web service that people entering to Japan（and Japanese returning to Japan）can use for Quarantine, Immigration and Customs procedures in order to enter/return to Japan.</description>
