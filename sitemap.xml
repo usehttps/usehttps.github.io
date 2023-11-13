@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/legal/</loc>
-    <lastmod>2023-11-12T17:30:36+01:00</lastmod>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2023-11-13T10:45:26+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-11-13T10:45:26+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/newzealand/</loc>
+    <lastmod>2023-11-13T10:45:26+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/legal/</loc>
     <lastmod>2023-11-12T17:30:36+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/legal/privacypolicy/</loc>
@@ -90,9 +96,6 @@
     <lastmod>2023-11-05T15:13:23+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/canada/</loc>
-    <lastmod>2023-11-04T02:26:25+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
     <lastmod>2023-11-04T02:26:25+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/vancouver/</loc>
