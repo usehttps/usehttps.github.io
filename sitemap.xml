@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/cork/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/cork/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/cork/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-11-15T12:59:49+01:00</lastmod>
+  </url><url>
     <loc>https://usehttps.github.io/foods/</loc>
     <lastmod>2023-11-14T09:57:12+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/ireland/</loc>
-    <lastmod>2023-11-14T09:57:12+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/</loc>
     <lastmod>2023-11-14T09:57:12+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/newzealand/</loc>
@@ -23,9 +41,6 @@
     <loc>https://usehttps.github.io/legal/termsofuse/</loc>
     <lastmod>2023-11-12T17:30:36+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-11-09T12:29:00+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/apps/japan/</loc>
     <lastmod>2023-11-09T12:29:00+01:00</lastmod>
   </url><url>
@@ -35,13 +50,7 @@
     <loc>https://usehttps.github.io/maps/edmonton/</loc>
     <lastmod>2023-11-09T08:00:15+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-11-09T08:00:15+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/edmonton/</loc>
-    <lastmod>2023-11-09T08:00:14+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-11-09T08:00:14+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/ottawa/</loc>
