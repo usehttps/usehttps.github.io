@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-11-23T19:10:49+01:00</lastmod>
+    <loc>https://usehttps.github.io/maps/brisbane/</loc>
+    <lastmod>2023-11-23T20:38:57+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-11-23T19:10:49+01:00</lastmod>
+    <lastmod>2023-11-23T20:38:57+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-11-23T20:38:57+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2023-11-23T20:38:56+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/brisbane/</loc>
+    <lastmod>2023-11-23T20:38:56+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/brisbane/</loc>
+    <lastmod>2023-11-23T20:38:56+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-11-23T20:38:56+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/melbourne/</loc>
     <lastmod>2023-11-23T19:10:49+01:00</lastmod>
@@ -14,13 +29,7 @@
     <loc>https://usehttps.github.io/maps/melbourne/</loc>
     <lastmod>2023-11-23T19:10:49+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-11-23T19:10:49+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/melbourne/</loc>
-    <lastmod>2023-11-23T19:10:48+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-11-23T19:10:48+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/goldcoast/</loc>
