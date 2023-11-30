@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustvisits on my trip navigation</title>
+    <link>https://usehttps.github.io/mustvisit/</link>
+    <description>Recent content in Mustvisits on my trip navigation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 29 Nov 2023 15:03:26 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/mustvisit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlanta</title>
+      <link>https://usehttps.github.io/mustvisit/atlanta/</link>
+      <pubDate>Wed, 29 Nov 2023 15:03:26 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/mustvisit/atlanta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
