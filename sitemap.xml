@@ -2,17 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/mustvisit/atlanta/</loc>
-    <lastmod>2023-11-29T15:03:26+01:00</lastmod>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/madrid/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/madrid/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/madrid/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/madrid/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/mustvisit/</loc>
-    <lastmod>2023-11-29T15:03:26+01:00</lastmod>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-11-29T15:03:26+01:00</lastmod>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-11-29T14:55:32+01:00</lastmod>
+    <loc>https://usehttps.github.io/foods/spain/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/</loc>
+    <lastmod>2023-12-05T03:48:47+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/madrid/</loc>
+    <lastmod>2023-12-05T03:48:46+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-12-05T03:48:46+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/atlanta/</loc>
+    <lastmod>2023-11-29T15:03:26+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/atlanta/</loc>
     <lastmod>2023-11-29T14:55:32+01:00</lastmod>
@@ -20,13 +50,7 @@
     <loc>https://usehttps.github.io/maps/atlanta/</loc>
     <lastmod>2023-11-29T14:55:32+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-11-29T14:55:32+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/atlanta/</loc>
-    <lastmod>2023-11-29T14:55:31+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-11-29T14:55:31+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/maps/hawaii/</loc>
@@ -100,9 +124,6 @@
   </url><url>
     <loc>https://usehttps.github.io/maps/perth/</loc>
     <lastmod>2023-11-23T10:26:22+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2023-11-20T10:43:23+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/macau/</loc>
     <lastmod>2023-11-20T10:43:23+01:00</lastmod>
@@ -381,9 +402,6 @@
     <lastmod>2023-10-17T13:38:05+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/tips/singapore/</loc>
-    <lastmod>2023-10-17T13:35:49+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/tips/</loc>
     <lastmod>2023-10-17T13:35:49+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/singapore/</loc>
