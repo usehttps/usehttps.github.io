@@ -437,8 +437,7 @@ Use fast train (RV/REG) by Trenitalia (8~14 Euro) or SIT Bus Shuttle (~7 Euro) o
       <pubDate>Wed, 29 Mar 2023 09:00:21 +0200</pubDate>
       
       <guid>https://usehttps.github.io/maps/mallorca/</guid>
-      <description>Our offline app for Mallorca HERE
-Public transport map https://www.tib.org/en/xarxa-de-transports/mapa-linies
+      <description>Our offline app for Palma de Mallorca HERE Public transport map https://www.tib.org/en/xarxa-de-transports/mapa-linies
 Bus lines and bus stops https://www.emtpalma.cat/en/bus-stops
 Palma de Mallorca Airport https://www.palmaairport.info/
 Departures https://www.palmaairport.info/mallorca-airport-pmi-flight-departures-today/
@@ -447,6 +446,7 @@ Train link to Palma Airport https://www.palmaairport.info/public-transport/takin
 Internet access at Palma Airport https://www.palmaairport.info/airport/airport-services-facilities/internet-wifi/
 Shops and Stores at Palma Airport https://www.palmaairport.info/airport/shops-and-stores-at-palma-airport/
 Places to eat and drink at Palma Airport https://www.palmaairport.info/airport/airport-services-facilities/places-to-eat-drink/
+{{% include &amp;ldquo;/content/foods/mallorca.md&amp;rdquo; %}}
 Mallorca foods/gourmet you must try Famous food top 5 Sobrasada: Sobrassada in Balearic or Sobrasada in Spanish, is a raw, cured sausage from the Balearic Islands made with ground pork, paprika, salt and other spices.</description>
     </item>
     
