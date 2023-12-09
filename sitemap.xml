@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2023-12-09T08:54:25+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/portland/</loc>
+    <lastmod>2023-12-09T08:54:25+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/</loc>
+    <lastmod>2023-12-09T08:54:25+01:00</lastmod>
+  </url><url>
     <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2023-12-09T08:43:05+01:00</lastmod>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/portland/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/portland/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/portland/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/portland/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2023-12-09T08:54:24+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/mallorca/</loc>
     <lastmod>2023-12-09T08:43:05+01:00</lastmod>
@@ -14,19 +44,7 @@
     <loc>https://usehttps.github.io/tips/mallorca/</loc>
     <lastmod>2023-12-09T08:43:05+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/mustvisit/</loc>
-    <lastmod>2023-12-09T08:43:05+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2023-12-09T08:43:05+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/tips/</loc>
-    <lastmod>2023-12-09T08:43:05+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/transport/mallorca/</loc>
-    <lastmod>2023-12-09T08:43:04+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2023-12-09T08:43:04+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/mustvisit/philadelphia/</loc>
@@ -34,9 +52,6 @@
   </url><url>
     <loc>https://usehttps.github.io/tips/philadelphia/</loc>
     <lastmod>2023-12-09T07:29:05+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2023-12-09T07:29:04+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/philadelphia/</loc>
     <lastmod>2023-12-09T07:29:04+01:00</lastmod>
