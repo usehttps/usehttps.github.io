@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 Dec 2023 23:29:02 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 14:01:58 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sanjose</title>
+      <link>https://usehttps.github.io/apps/sanjose/</link>
+      <pubDate>Mon, 11 Dec 2023 14:01:58 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/sanjose/</guid>
+      <description>Our offline app for San Jose, California HERE </description>
+    </item>
+    
     <item>
       <title>Mexicocity</title>
       <link>https://usehttps.github.io/apps/mexicocity/</link>
