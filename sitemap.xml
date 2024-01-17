@@ -2,28 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/</loc>
-    <lastmod>2024-01-17T08:46:11+01:00</lastmod>
+    <loc>https://usehttps.github.io/goods/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/weather/nice/</loc>
-    <lastmod>2024-01-17T08:46:11+01:00</lastmod>
+    <loc>https://usehttps.github.io/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/goods/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/weather/</loc>
+    <lastmod>2024-01-17T13:16:28+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:27+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/strasbourg/</loc>
+    <lastmod>2024-01-17T13:16:26+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2024-01-17T13:16:26+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/nice/</loc>
     <lastmod>2024-01-17T08:46:11+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/nice/</loc>
     <lastmod>2024-01-17T08:43:44+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
-    <lastmod>2024-01-17T08:43:44+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2024-01-17T08:43:29+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/goods/france/</loc>
-    <lastmod>2024-01-17T08:43:29+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/goods/</loc>
     <lastmod>2024-01-17T08:43:29+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/nice/</loc>
@@ -34,18 +70,6 @@
   </url><url>
     <loc>https://usehttps.github.io/tips/nice/</loc>
     <lastmod>2024-01-17T08:43:29+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/tips/</loc>
-    <lastmod>2024-01-17T08:43:29+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2024-01-17T08:43:28+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2024-01-17T08:43:28+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/mustvisit/</loc>
-    <lastmod>2024-01-17T08:43:28+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/nice/</loc>
     <lastmod>2024-01-17T08:43:28+01:00</lastmod>
