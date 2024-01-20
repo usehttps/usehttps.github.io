@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 17 Jan 2024 23:36:23 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jan 2024 10:10:56 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toulouse</title>
+      <link>https://usehttps.github.io/maps/toulouse/</link>
+      <pubDate>Sat, 20 Jan 2024 10:10:56 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/maps/toulouse/</guid>
+      <description>Our offline app for Toulouse HERE TOULOUSE WEATHER
+How to Get Around by Public Transportation Metro, tram and bus. https://www.tisseo.fr/en/network-maps Métro
+Line A - Basso Cambo / Balma Gramont. Serving 18 stations , journey time 22 minutes.
+Line B - Borderouge / Ramonville. Serving 20 stations, journey time 26 minutes.
+Connections between the two lines can be made in the town centre at Jean Jaurès station. Lines A and B run every day from 5.</description>
+    </item>
+    
     <item>
       <title>Lyon</title>
       <link>https://usehttps.github.io/maps/lyon/</link>
