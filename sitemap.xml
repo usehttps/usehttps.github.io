@@ -3,13 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://usehttps.github.io/goods/</loc>
-    <lastmod>2024-01-20T10:10:57+01:00</lastmod>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/goods/marseille/</loc>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/marseille/</loc>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/marseille/</loc>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
-    <lastmod>2024-01-20T10:10:57+01:00</lastmod>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/tips/</loc>
-    <lastmod>2024-01-20T10:10:57+01:00</lastmod>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/</loc>
+    <lastmod>2024-01-20T19:17:06+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/marseille/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/marseille/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/marseille/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/marseille/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/</loc>
+    <lastmod>2024-01-20T19:17:05+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/marseille/</loc>
+    <lastmod>2024-01-20T19:17:04+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2024-01-20T19:17:04+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/goods/toulouse/</loc>
     <lastmod>2024-01-20T10:10:57+01:00</lastmod>
@@ -19,21 +61,6 @@
   </url><url>
     <loc>https://usehttps.github.io/weather/toulouse/</loc>
     <lastmod>2024-01-20T10:10:57+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/weather/</loc>
-    <lastmod>2024-01-20T10:10:57+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2024-01-20T10:10:56+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2024-01-20T10:10:56+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2024-01-20T10:10:56+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/mustvisit/</loc>
-    <lastmod>2024-01-20T10:10:56+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/apps/toulouse/</loc>
     <lastmod>2024-01-20T10:10:56+01:00</lastmod>
@@ -48,9 +75,6 @@
     <lastmod>2024-01-20T10:10:56+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/toulouse/</loc>
-    <lastmod>2024-01-20T10:10:55+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2024-01-20T10:10:55+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/goods/lyon/</loc>
@@ -1363,6 +1387,8 @@
   </url><url>
     <loc>https://usehttps.github.io/tags/untagged/</loc>
     <lastmod>2022-10-01T02:17:33+02:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/aaa-sample/</loc>
   </url><url>
     <loc>https://usehttps.github.io/blog/</loc>
   </url><url>
