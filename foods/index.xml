@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 05 Mar 2024 12:47:03 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/foods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2024 12:27:53 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/foods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stockholm</title>
+      <link>https://usehttps.github.io/foods/stockholm/</link>
+      <pubDate>Wed, 06 Mar 2024 12:27:53 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/foods/stockholm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>https://usehttps.github.io/foods/sweden/</link>
+      <pubDate>Wed, 06 Mar 2024 12:27:53 +0100</pubDate>
+      
+      <guid>https://usehttps.github.io/foods/sweden/</guid>
+      <description>Foods you must try Famous foods top 5 Köttbullar Surströmming Gravad Lax Knäckebröd Pytt i Panna Famous Sweets Prinsesstårta Kanelbullar Semla Chokladbollar Pepparkakor Lussekatter Kladdkaka Pannkakor Rabarberpaj Ostkaka Famous Snacks Småkakor Prinskorv Kexchoklad Famous Drinks Saft Famous Fruits Food trivia Gott means &amp;ldquo;It&amp;rsquo;s delicious&amp;rdquo; Other famous foods Kroppkakor Sill Blodpudding Ärtsoppa Raggmunk </description>
+    </item>
+    
     <item>
       <title>Poland</title>
       <link>https://usehttps.github.io/foods/poland/</link>
@@ -600,7 +618,7 @@ Hainanese Chicken Rice - Tasty chicken with tastier rice. Hainanese chicken rice
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://usehttps.github.io/foods/aaa-sample/</guid>
-      <description>Foods you must try Famous foods top 5 Famous Sweets Famous Drinks &amp;lt;img src=&amp;quot;&amp;quot; width=&amp;quot;300&amp;quot; /&amp;gt;Famous Fruits Food trivia `` means &amp;ldquo;It&amp;rsquo;s delicious&amp;rdquo; Other famous foods </description>
+      <description>Foods you must try Famous foods top 5 Famous Sweets Famous Drinks &amp;lt;img src=&amp;quot;&amp;quot; width=&amp;quot;300&amp;quot; /&amp;gt;Famous Snacks Famous Fruits Food trivia `` means &amp;ldquo;It&amp;rsquo;s delicious&amp;rdquo; Other famous foods </description>
     </item>
     
   </channel>
