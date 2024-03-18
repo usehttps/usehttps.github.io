@@ -2,13 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usehttps.github.io/airport/aaa-airport/</loc>
-    <lastmod>2024-03-16T08:55:46+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/airport/</loc>
-    <lastmod>2024-03-16T08:55:46+01:00</lastmod>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/airport/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/live/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/practicalinfo/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/live/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/practicalinfo/</loc>
+    <lastmod>2024-03-18T17:24:54+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/gay/</loc>
+    <lastmod>2024-03-18T17:24:53+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/gay/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:53+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:53+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/weather/</loc>
+    <lastmod>2024-03-18T17:24:53+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/goods/</loc>
+    <lastmod>2024-03-18T17:24:52+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/goods/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:52+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/</loc>
+    <lastmod>2024-03-18T17:24:51+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/foods/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:51+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:51+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/tips/</loc>
+    <lastmod>2024-03-18T17:24:51+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:50+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/mustvisit/</loc>
+    <lastmod>2024-03-18T17:24:50+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/</loc>
+    <lastmod>2024-03-18T17:24:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/apps/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/maps/</loc>
+    <lastmod>2024-03-18T17:24:49+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/hamburg/</loc>
+    <lastmod>2024-03-18T17:24:48+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/transport/</loc>
+    <lastmod>2024-03-18T17:24:48+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/airport/aaa-airport/</loc>
     <lastmod>2024-03-16T08:55:46+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/airport/dusseldorf/</loc>
@@ -20,12 +89,6 @@
     <loc>https://usehttps.github.io/practicalinfo/dusseldorf/</loc>
     <lastmod>2024-03-16T08:54:51+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/live/</loc>
-    <lastmod>2024-03-16T08:54:51+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/practicalinfo/</loc>
-    <lastmod>2024-03-16T08:54:51+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/gay/dusseldorf/</loc>
     <lastmod>2024-03-16T08:54:50+01:00</lastmod>
   </url><url>
@@ -33,15 +96,6 @@
     <lastmod>2024-03-16T08:54:50+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/weather/dusseldorf/</loc>
-    <lastmod>2024-03-16T08:54:50+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/gay/</loc>
-    <lastmod>2024-03-16T08:54:50+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/goods/</loc>
-    <lastmod>2024-03-16T08:54:50+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/weather/</loc>
     <lastmod>2024-03-16T08:54:50+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/foods/dusseldorf/</loc>
@@ -56,28 +110,10 @@
     <loc>https://usehttps.github.io/tips/dusseldorf/</loc>
     <lastmod>2024-03-16T08:54:49+01:00</lastmod>
   </url><url>
-    <loc>https://usehttps.github.io/foods/</loc>
-    <lastmod>2024-03-16T08:54:49+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/maps/</loc>
-    <lastmod>2024-03-16T08:54:49+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/mustvisit/</loc>
-    <lastmod>2024-03-16T08:54:49+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/tips/</loc>
-    <lastmod>2024-03-16T08:54:49+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/apps/</loc>
-    <lastmod>2024-03-16T08:54:48+01:00</lastmod>
-  </url><url>
     <loc>https://usehttps.github.io/apps/dusseldorf/</loc>
     <lastmod>2024-03-16T08:54:48+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/transport/dusseldorf/</loc>
-    <lastmod>2024-03-16T08:54:48+01:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/transport/</loc>
     <lastmod>2024-03-16T08:54:48+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/airport/gelsenkirchen/</loc>
