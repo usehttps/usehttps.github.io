@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 01 Apr 2024 18:06:29 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/airport/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 07:53:09 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/airport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shenzhen</title>
+      <link>https://usehttps.github.io/airport/shenzhen/</link>
+      <pubDate>Tue, 02 Apr 2024 07:53:09 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/airport/shenzhen/</guid>
+      <description>Shenzhen Bao&amp;rsquo;an International Airport Departure and Arrival Flights Departure flight information https://www.szairport.com/szairporten/cfhb/Departure_Arrival.shtml Arriving flights https://www.szairport.com/szairporten/ddhb/Departure_Arrival.shtml Airlines and terminals https://www.szairport.com/szairporten/hkgs/Airlines.shtml Transit guide-Connecting flights https://www.szairport.com/szairporten/gnhczy/Guides_common_tt.shtml Getting to the Airport https://www.szairport.com/szairporten/ditie/zlm_tt.shtml https://www.szairport.com/szairporten/lwgdgd/202108/6fd3fd5f341f45dd9b6a432c396c6712.shtml https://www.szairport.com/szairporten/daba/zlm_tt.shtml https://www.szairport.com/szairporten/hjl/202008/256855a116bb4aae83500f64fe306d0a.shtml Airport map &amp;amp; apps https://www.szairport.com/szairporten/hzlpmt/202008/9c46bce8b5584215bb9e25669cdc2147.shtml Transfer between terminals Shop, Dine, Relax and do more https://www.szairport.com/szairporten/xfzn/Shopping_Guide.shtml Dining https://www.szairport.com/szairporten/msmk/Dining.shtml Shop https://www.szairport.com/szairporten/cxgw/Shopping.shtml Duty Free/Tax Free Facilities and Services Lounges, hotels and spas https://www.szairport.com/szairporten/tslvfw/202008/4abf84d7ba21488ba16d1a65eb95dca6.shtml https://www.szairport.com/szairporten/gbfw/dlm_tt.shtml https://www.szairport.com/szairporten/jcjd/jcjden_tt.shtml Taxi Rideshare and Rental Car Parking https://www.szairport.com/szairporten/tcczy/dlm_tt.shtml Baggage Claim/Damage/Lost Fast Track Pick up and Drop Off Lost and Found https://www.</description>
+    </item>
+    
     <item>
       <title>Macau</title>
       <link>https://usehttps.github.io/airport/macau/</link>
@@ -153,15 +162,6 @@
     </item>
     
     <item>
-      <title>Aaa Airport</title>
-      <link>https://usehttps.github.io/airport/aaa-airport/</link>
-      <pubDate>Sat, 16 Mar 2024 08:55:46 +0100</pubDate>
-      
-      <guid>https://usehttps.github.io/airport/aaa-airport/</guid>
-      <description>Airport Departure and Arrival Flights Departure flight information Arriving flights Airlines and terminals Transit guide-Connecting flights Getting to the Airport Airport map &amp;amp; apps Transfer between terminals Shop, Dine, Relax and do more Dining Shop Duty Free/Tax Free Facilities and Services Lounges, hotels and spas Taxi Rideshare and Rental Car Parking Baggage Claim/Damage/Lost Fast Track Pick up and Drop Off Lost and Found Banking, Currency Exchange, ATM Promotions Health Services Traveling with Kids Traveling with Pets/Animals Prayer room Other Services/Accessibility Useful contacts Other Experiences </description>
-    </item>
-    
-    <item>
       <title>Dusseldorf</title>
       <link>https://usehttps.github.io/airport/dusseldorf/</link>
       <pubDate>Sat, 16 Mar 2024 08:54:51 +0100</pubDate>
@@ -177,6 +177,15 @@
       
       <guid>https://usehttps.github.io/airport/gelsenkirchen/</guid>
       <description>DUS Airport - Düsseldorf Departure and Arrival Flights https://www.dus.com/en/flights Departure flight information https://www.dus.com/en/flights/departures Arriving flights https://www.dus.com/en/flights/arrivals Airlines and terminals https://www.dus.com/en/flights/airlines Transit guide-Connecting flights https://www.dus.com/en/flights/transferring Getting to the Airport https://www.dus.com/en/to-and-from https://www.dus.com/en/to-and-from/bus-and-train Airport map &amp;amp; apps https://www.dus.com/en/inform/location-map Transfer between terminals Shop, Dine, Relax and do more https://www.dus.com/en/shop-and-dine Dining https://www.dus.com/en/shop-and-dine/gastro Shop https://www.dus.com/en/shop-and-dine/shops Duty Free/Tax Free https://www.dus.com/en/shop-and-dine/duty-free Facilities and Services Lounges, hotels and spas https://www.dus.com/en/inform/lounges https://www.dus.com/en/inform/vip-service Taxi https://www.dus.com/en/to-and-from/taxi Rideshare and Rental Car https://www.dus.com/en/to-and-from/car-rentals Parking https://www.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://usehttps.github.io/airport/aaa-airport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usehttps.github.io/airport/aaa-airport/</guid>
+      <description>Airport Departure and Arrival Flights Departure flight information Arriving flights Airlines and terminals Transit guide-Connecting flights Getting to the Airport Airport map &amp;amp; apps Transfer between terminals Shop, Dine, Relax and do more Dining Shop Duty Free/Tax Free Facilities and Services Lounges, hotels and spas Taxi Rideshare and Rental Car Parking Baggage Claim/Damage/Lost Fast Track Pick up and Drop Off Lost and Found Banking, Currency Exchange, ATM Promotions Health Services Traveling with Kids Traveling with Pets/Animals Prayer room Other Services/Accessibility Useful contacts Other Experiences </description>
     </item>
     
   </channel>
