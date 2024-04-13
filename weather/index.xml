@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 12 Apr 2024 22:18:50 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/weather/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 07:52:13 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/weather/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeddah</title>
+      <link>https://usehttps.github.io/weather/jeddah/</link>
+      <pubDate>Sat, 13 Apr 2024 07:52:13 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/weather/jeddah/</guid>
+      <description>JEDDAH WEATHER</description>
+    </item>
+    
     <item>
       <title>Riyadh</title>
       <link>https://usehttps.github.io/weather/riyadh/</link>
