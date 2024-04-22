@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on my trip navigation</title>
+    <title>Untagged on my trip navigation</title>
     <link>https://usehttps.github.io/tags/untagged/</link>
-    <description>Recent content in untagged on my trip navigation</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Untagged on my trip navigation</description>
+    <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 02:17:33 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 02:17:33 +0200</lastBuildDate>
+    <atom:link href="https://usehttps.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://usehttps.github.io/posts/hello/</link>
       <pubDate>Sat, 01 Oct 2022 02:17:33 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/posts/hello/</guid>
       <description>This is 1st post for my trip navi</description>
     </item>
-    
   </channel>
 </rss>

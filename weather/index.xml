@@ -4,945 +4,738 @@
     <title>Weathers on my trip navigation</title>
     <link>https://usehttps.github.io/weather/</link>
     <description>Recent content in Weathers on my trip navigation</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 20 Apr 2024 02:27:58 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/weather/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 02:27:58 +0200</lastBuildDate>
+    <atom:link href="https://usehttps.github.io/weather/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tdltdstdr</title>
       <link>https://usehttps.github.io/weather/tdltdstdr/</link>
       <pubDate>Sat, 20 Apr 2024 02:27:58 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/tdltdstdr/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kuwait</title>
       <link>https://usehttps.github.io/weather/kuwait/</link>
       <pubDate>Tue, 16 Apr 2024 01:23:38 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/kuwait/</guid>
       <description>KUWAIT WEATHER</description>
     </item>
-    
     <item>
       <title>Jeddah</title>
       <link>https://usehttps.github.io/weather/jeddah/</link>
       <pubDate>Sat, 13 Apr 2024 07:52:13 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/jeddah/</guid>
       <description>JEDDAH WEATHER</description>
     </item>
-    
     <item>
       <title>Riyadh</title>
       <link>https://usehttps.github.io/weather/riyadh/</link>
       <pubDate>Fri, 12 Apr 2024 22:18:50 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/riyadh/</guid>
       <description>RIYADH WEATHER</description>
     </item>
-    
     <item>
       <title>Hochiminh</title>
       <link>https://usehttps.github.io/weather/hochiminh/</link>
       <pubDate>Tue, 09 Apr 2024 17:04:27 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/hochiminh/</guid>
       <description>HO CHI MINH WEATHER</description>
     </item>
-    
     <item>
       <title>Hague</title>
       <link>https://usehttps.github.io/weather/hague/</link>
       <pubDate>Tue, 09 Apr 2024 09:55:21 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/hague/</guid>
       <description>HAGUE WEATHER</description>
     </item>
-    
     <item>
       <title>Glasgow</title>
       <link>https://usehttps.github.io/weather/glasgow/</link>
       <pubDate>Mon, 08 Apr 2024 13:05:29 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/glasgow/</guid>
       <description>GLASGOW WEATHER</description>
     </item>
-    
     <item>
       <title>Geneva</title>
       <link>https://usehttps.github.io/weather/geneva/</link>
       <pubDate>Fri, 05 Apr 2024 22:31:27 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/geneva/</guid>
       <description>GENEVA WEATHER</description>
     </item>
-    
     <item>
       <title>Shenzhen</title>
       <link>https://usehttps.github.io/weather/shenzhen/</link>
       <pubDate>Tue, 02 Apr 2024 07:53:08 +0200</pubDate>
-      
       <guid>https://usehttps.github.io/weather/shenzhen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hamburg</title>
       <link>https://usehttps.github.io/weather/hamburg/</link>
       <pubDate>Mon, 18 Mar 2024 17:24:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/hamburg/</guid>
       <description>HAMBURG WEATHER</description>
     </item>
-    
     <item>
       <title>Dusseldorf</title>
       <link>https://usehttps.github.io/weather/dusseldorf/</link>
       <pubDate>Sat, 16 Mar 2024 08:54:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/dusseldorf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gelsenkirchen</title>
       <link>https://usehttps.github.io/weather/gelsenkirchen/</link>
       <pubDate>Sat, 16 Mar 2024 08:41:45 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/gelsenkirchen/</guid>
       <description>GELSENKIRCHEN WEATHER</description>
     </item>
-    
     <item>
       <title>Liverpool</title>
       <link>https://usehttps.github.io/weather/liverpool/</link>
       <pubDate>Mon, 11 Mar 2024 01:28:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/liverpool/</guid>
       <description>LIVERPOOL WEATHER</description>
     </item>
-    
     <item>
       <title>Edinburgh</title>
       <link>https://usehttps.github.io/weather/edinburgh/</link>
       <pubDate>Sun, 10 Mar 2024 07:36:19 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/edinburgh/</guid>
       <description>EDINBURGH WEATHER</description>
     </item>
-    
     <item>
       <title>Warsaw</title>
       <link>https://usehttps.github.io/weather/warsaw/</link>
       <pubDate>Tue, 05 Mar 2024 12:47:04 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/warsaw/</guid>
       <description>WARSAW WEATHER</description>
     </item>
-    
     <item>
       <title>Lisbon</title>
       <link>https://usehttps.github.io/weather/lisbon/</link>
       <pubDate>Sun, 25 Feb 2024 14:33:12 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/lisbon/</guid>
       <description>LISBON WEATHER</description>
     </item>
-    
     <item>
       <title>Vienna</title>
       <link>https://usehttps.github.io/weather/vienna/</link>
       <pubDate>Wed, 07 Feb 2024 13:13:52 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/vienna/</guid>
       <description>VIENNA WEATHER</description>
     </item>
-    
     <item>
       <title>Munich</title>
       <link>https://usehttps.github.io/weather/munich/</link>
       <pubDate>Wed, 31 Jan 2024 16:18:10 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/munich/</guid>
       <description>MUNICH WEATHER</description>
     </item>
-    
     <item>
       <title>Barcelona</title>
       <link>https://usehttps.github.io/weather/barcelona/</link>
       <pubDate>Sun, 28 Jan 2024 17:42:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/barcelona/</guid>
       <description>BARCELONA WEATHER</description>
     </item>
-    
     <item>
       <title>Berlin</title>
       <link>https://usehttps.github.io/weather/berlin/</link>
       <pubDate>Fri, 26 Jan 2024 17:48:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/berlin/</guid>
       <description>BERLIN WEATHER</description>
     </item>
-    
     <item>
       <title>Amsterdam</title>
       <link>https://usehttps.github.io/weather/amsterdam/</link>
       <pubDate>Mon, 22 Jan 2024 13:22:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/amsterdam/</guid>
       <description>AMSTERDAM WEATHER</description>
     </item>
-    
     <item>
       <title>Marseille</title>
       <link>https://usehttps.github.io/weather/marseille/</link>
       <pubDate>Sat, 20 Jan 2024 19:17:06 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/marseille/</guid>
       <description>MARSEILLE WEATHER</description>
     </item>
-    
     <item>
       <title>Toulouse</title>
       <link>https://usehttps.github.io/weather/toulouse/</link>
       <pubDate>Sat, 20 Jan 2024 10:10:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/toulouse/</guid>
       <description>TOULOUSE WEATHER</description>
     </item>
-    
     <item>
       <title>Lyon</title>
       <link>https://usehttps.github.io/weather/lyon/</link>
       <pubDate>Wed, 17 Jan 2024 23:36:24 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/lyon/</guid>
       <description>LYON WEATHER</description>
     </item>
-    
     <item>
       <title>Strasbourg</title>
       <link>https://usehttps.github.io/weather/strasbourg/</link>
       <pubDate>Wed, 17 Jan 2024 13:16:28 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/strasbourg/</guid>
       <description>STRASBOURG WEATHER</description>
     </item>
-    
     <item>
       <title>Nice</title>
       <link>https://usehttps.github.io/weather/nice/</link>
       <pubDate>Wed, 17 Jan 2024 08:46:11 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/nice/</guid>
       <description>NICE WEATHER</description>
     </item>
-    
     <item>
       <title>Whistler</title>
       <link>https://usehttps.github.io/weather/whistler/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:02 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/whistler/</guid>
       <description>WHISTLER WEATHER</description>
     </item>
-    
     <item>
       <title>Zurich</title>
       <link>https://usehttps.github.io/weather/zurich/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:02 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/zurich/</guid>
       <description>ZÜRICH WEATHER</description>
     </item>
-    
     <item>
       <title>Tampa</title>
       <link>https://usehttps.github.io/weather/tampa/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/tampa/</guid>
       <description>TAMPA WEATHER</description>
     </item>
-    
     <item>
       <title>Toronto</title>
       <link>https://usehttps.github.io/weather/toronto/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/toronto/</guid>
       <description>TORONTO WEATHER</description>
     </item>
-    
     <item>
       <title>Vancouver</title>
       <link>https://usehttps.github.io/weather/vancouver/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/vancouver/</guid>
       <description>VANCOUVER WEATHER</description>
     </item>
-    
     <item>
       <title>Victoria</title>
       <link>https://usehttps.github.io/weather/victoria/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/victoria/</guid>
       <description>VICTORIA WEATHER</description>
     </item>
-    
     <item>
       <title>Washingtondc</title>
       <link>https://usehttps.github.io/weather/washingtondc/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:01 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/washingtondc/</guid>
       <description>WASHINGTON D.C. WEATHER</description>
     </item>
-    
     <item>
       <title>Seoul</title>
       <link>https://usehttps.github.io/weather/seoul/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:00 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/seoul/</guid>
       <description>SEOUL WEATHER</description>
     </item>
-    
     <item>
       <title>Singapore</title>
       <link>https://usehttps.github.io/weather/singapore/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:00 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/singapore/</guid>
       <description>SINGAPORE WEATHER</description>
     </item>
-    
     <item>
       <title>Stockholm</title>
       <link>https://usehttps.github.io/weather/stockholm/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:00 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/stockholm/</guid>
       <description>STOCKHOLM WEATHER</description>
     </item>
-    
     <item>
       <title>Sydney</title>
       <link>https://usehttps.github.io/weather/sydney/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:00 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/sydney/</guid>
       <description>SYDNEY WEATHER</description>
     </item>
-    
     <item>
       <title>Taipei</title>
       <link>https://usehttps.github.io/weather/taipei/</link>
       <pubDate>Wed, 27 Dec 2023 11:03:00 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/taipei/</guid>
       <description>TAIPEI WEATHER</description>
     </item>
-    
     <item>
       <title>SanFrancisco</title>
       <link>https://usehttps.github.io/weather/sanfrancisco/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:59 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/sanfrancisco/</guid>
       <description>SAN FRANCISCO WEATHER</description>
     </item>
-    
     <item>
       <title>Sanjose</title>
       <link>https://usehttps.github.io/weather/sanjose/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:59 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/sanjose/</guid>
       <description>SAN JOSE WEATHER</description>
     </item>
-    
     <item>
       <title>Santabarbara</title>
       <link>https://usehttps.github.io/weather/santabarbara/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:59 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/santabarbara/</guid>
       <description>SANTA BARBARA WEATHER</description>
     </item>
-    
     <item>
       <title>Seattle</title>
       <link>https://usehttps.github.io/weather/seattle/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:59 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/seattle/</guid>
       <description>SEATTLE WEATHER</description>
     </item>
-    
     <item>
       <title>Perth</title>
       <link>https://usehttps.github.io/weather/perth/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:58 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/perth/</guid>
       <description>PERTH WEATHER</description>
     </item>
-    
     <item>
       <title>Philadelphia</title>
       <link>https://usehttps.github.io/weather/philadelphia/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:58 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/philadelphia/</guid>
       <description>PHILADELPHIA WEATHER</description>
     </item>
-    
     <item>
       <title>Portland</title>
       <link>https://usehttps.github.io/weather/portland/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:58 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/portland/</guid>
       <description>PORTLAND WEATHER</description>
     </item>
-    
     <item>
       <title>Rome</title>
       <link>https://usehttps.github.io/weather/rome/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:58 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/rome/</guid>
       <description>ROME WEATHER</description>
     </item>
-    
     <item>
       <title>Sandiego</title>
       <link>https://usehttps.github.io/weather/sandiego/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:58 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/sandiego/</guid>
       <description>SAN DIEGO WEATHER</description>
     </item>
-    
     <item>
       <title>Nyc</title>
       <link>https://usehttps.github.io/weather/nyc/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/nyc/</guid>
       <description>NYC WEATHER</description>
     </item>
-    
     <item>
       <title>Orlando</title>
       <link>https://usehttps.github.io/weather/orlando/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/orlando/</guid>
       <description>ORLANDO WEATHER</description>
     </item>
-    
     <item>
       <title>Oslo</title>
       <link>https://usehttps.github.io/weather/oslo/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/oslo/</guid>
       <description>OSLO WEATHER</description>
     </item>
-    
     <item>
       <title>Ottawa</title>
       <link>https://usehttps.github.io/weather/ottawa/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/ottawa/</guid>
       <description>OTTAWA WEATHER</description>
     </item>
-    
     <item>
       <title>Paris</title>
       <link>https://usehttps.github.io/weather/paris/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:57 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/paris/</guid>
       <description>PARIS WEATHER</description>
     </item>
-    
     <item>
       <title>Moscow</title>
       <link>https://usehttps.github.io/weather/moscow/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/moscow/</guid>
       <description>MOSCOW WEATHER</description>
     </item>
-    
     <item>
       <title>Mumbai</title>
       <link>https://usehttps.github.io/weather/mumbai/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/mumbai/</guid>
       <description>MUMBAI WEATHER</description>
     </item>
-    
     <item>
       <title>Muscat</title>
       <link>https://usehttps.github.io/weather/muscat/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/muscat/</guid>
       <description>MUSCAT WEATHER</description>
     </item>
-    
     <item>
       <title>Naples</title>
       <link>https://usehttps.github.io/weather/naples/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/naples/</guid>
       <description>NAPLES WEATHER</description>
     </item>
-    
     <item>
       <title>NewOrleans</title>
       <link>https://usehttps.github.io/weather/neworleans/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/neworleans/</guid>
       <description>NEW ORLEANS WEATHER</description>
     </item>
-    
     <item>
       <title>Melbourne</title>
       <link>https://usehttps.github.io/weather/melbourne/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:55 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/melbourne/</guid>
       <description>MELBOURNE WEATHER</description>
     </item>
-    
     <item>
       <title>Mexicocity</title>
       <link>https://usehttps.github.io/weather/mexicocity/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:55 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/mexicocity/</guid>
       <description>MEXICO CITY WEATHER</description>
     </item>
-    
     <item>
       <title>Miami</title>
       <link>https://usehttps.github.io/weather/miami/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:55 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/miami/</guid>
       <description>MIAMI WEATHER</description>
     </item>
-    
     <item>
       <title>Milan</title>
       <link>https://usehttps.github.io/weather/milan/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:55 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/milan/</guid>
       <description>MILANO WEATHER</description>
     </item>
-    
     <item>
       <title>Montreal</title>
       <link>https://usehttps.github.io/weather/montreal/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:55 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/montreal/</guid>
       <description>MONTREAL WEATHER</description>
     </item>
-    
     <item>
       <title>Luxembourg</title>
       <link>https://usehttps.github.io/weather/luxembourg/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:54 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/luxembourg/</guid>
       <description>LUXEMBOURG WEATHER</description>
     </item>
-    
     <item>
       <title>Macau</title>
       <link>https://usehttps.github.io/weather/macau/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:54 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/macau/</guid>
       <description>MACAU WEATHER</description>
     </item>
-    
     <item>
       <title>Madrid</title>
       <link>https://usehttps.github.io/weather/madrid/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:54 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/madrid/</guid>
       <description>MADRID WEATHER</description>
     </item>
-    
     <item>
       <title>Mallorca</title>
       <link>https://usehttps.github.io/weather/mallorca/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:54 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/mallorca/</guid>
       <description>PALMA WEATHER</description>
     </item>
-    
     <item>
       <title>Manchester</title>
       <link>https://usehttps.github.io/weather/manchester/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:54 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/manchester/</guid>
       <description>MANCHESTER WEATHER</description>
     </item>
-    
     <item>
       <title>Jerseycity</title>
       <link>https://usehttps.github.io/weather/jerseycity/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/jerseycity/</guid>
       <description>JERSEY CITY WEATHER</description>
     </item>
-    
     <item>
       <title>Kualalumpur</title>
       <link>https://usehttps.github.io/weather/kualalumpur/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/kualalumpur/</guid>
       <description>KUALA LUMPUR WEATHER</description>
     </item>
-    
     <item>
       <title>Lasvegas</title>
       <link>https://usehttps.github.io/weather/lasvegas/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/lasvegas/</guid>
       <description>LAS VEGAS WEATHER</description>
     </item>
-    
     <item>
       <title>London</title>
       <link>https://usehttps.github.io/weather/london/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/london/</guid>
       <description>LONDON WEATHER</description>
     </item>
-    
     <item>
       <title>Losangeles</title>
       <link>https://usehttps.github.io/weather/losangeles/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:53 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/losangeles/</guid>
       <description>LOS ANGELES WEATHER</description>
     </item>
-    
     <item>
       <title>Istanbul</title>
       <link>https://usehttps.github.io/weather/istanbul/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:52 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/istanbul/</guid>
       <description>İSTANBUL WEATHER</description>
     </item>
-    
     <item>
       <title>Jacksonville</title>
       <link>https://usehttps.github.io/weather/jacksonville/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:52 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/jacksonville/</guid>
       <description>JACKSONVILLE WEATHER</description>
     </item>
-    
     <item>
       <title>Jakarta</title>
       <link>https://usehttps.github.io/weather/jakarta/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:52 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/jakarta/</guid>
       <description>JAKARTA WEATHER</description>
     </item>
-    
     <item>
       <title>Japan</title>
       <link>https://usehttps.github.io/weather/japan/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:52 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/japan/</guid>
       <description>TOKYO WEATHER</description>
     </item>
-    
     <item>
       <title>Goldcoast</title>
       <link>https://usehttps.github.io/weather/goldcoast/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:51 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/goldcoast/</guid>
       <description>GOLD COAST WEATHER</description>
     </item>
-    
     <item>
       <title>Hawaii</title>
       <link>https://usehttps.github.io/weather/hawaii/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:51 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/hawaii/</guid>
       <description>HAWAII WEATHER</description>
     </item>
-    
     <item>
       <title>Helsinki</title>
       <link>https://usehttps.github.io/weather/helsinki/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:51 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/helsinki/</guid>
       <description>HELSINKI WEATHER</description>
     </item>
-    
     <item>
       <title>Hongkong</title>
       <link>https://usehttps.github.io/weather/hongkong/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:51 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/hongkong/</guid>
       <description>HONGKONG WEATHER</description>
     </item>
-    
     <item>
       <title>Houston</title>
       <link>https://usehttps.github.io/weather/houston/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:51 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/houston/</guid>
       <description>HOUSTON WEATHER</description>
     </item>
-    
     <item>
       <title>Dublin</title>
       <link>https://usehttps.github.io/weather/dublin/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/dublin/</guid>
       <description>DUBLIN WEATHER</description>
     </item>
-    
     <item>
       <title>Edmonton</title>
       <link>https://usehttps.github.io/weather/edmonton/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/edmonton/</guid>
       <description>EDMONTON WEATHER</description>
     </item>
-    
     <item>
       <title>Fortlauderdale</title>
       <link>https://usehttps.github.io/weather/fortlauderdale/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/fortlauderdale/</guid>
       <description>FORT LAUDERDALE WEATHER</description>
     </item>
-    
     <item>
       <title>Frankfurt</title>
       <link>https://usehttps.github.io/weather/frankfurt/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/frankfurt/</guid>
       <description>FRANKFURT AM MAIN WEATHER</description>
     </item>
-    
     <item>
       <title>Galway</title>
       <link>https://usehttps.github.io/weather/galway/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:50 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/galway/</guid>
       <description>GALWAY WEATHER</description>
     </item>
-    
     <item>
       <title>Copenhagen</title>
       <link>https://usehttps.github.io/weather/copenhagen/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/copenhagen/</guid>
       <description>COPENHAGEN WEATHER</description>
     </item>
-    
     <item>
       <title>Cork</title>
       <link>https://usehttps.github.io/weather/cork/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/cork/</guid>
       <description>CORK WEATHER</description>
     </item>
-    
     <item>
       <title>Delhi</title>
       <link>https://usehttps.github.io/weather/delhi/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/delhi/</guid>
       <description>DELHI WEATHER</description>
     </item>
-    
     <item>
       <title>Doha</title>
       <link>https://usehttps.github.io/weather/doha/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/doha/</guid>
       <description>DOHA WEATHER</description>
     </item>
-    
     <item>
       <title>Dubai</title>
       <link>https://usehttps.github.io/weather/dubai/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:49 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/dubai/</guid>
       <description>DUBAI WEATHER</description>
     </item>
-    
     <item>
       <title>Brisbane</title>
       <link>https://usehttps.github.io/weather/brisbane/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:48 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/brisbane/</guid>
       <description>BRISBANE WEATHER</description>
     </item>
-    
     <item>
       <title>Brussels</title>
       <link>https://usehttps.github.io/weather/brussels/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:48 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/brussels/</guid>
       <description>BRUSSELS WEATHER</description>
     </item>
-    
     <item>
       <title>Cairns</title>
       <link>https://usehttps.github.io/weather/cairns/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:48 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/cairns/</guid>
       <description>CAIRNS WEATHER</description>
     </item>
-    
     <item>
       <title>Calgary</title>
       <link>https://usehttps.github.io/weather/calgary/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:48 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/calgary/</guid>
       <description>CALGARY WEATHER</description>
     </item>
-    
     <item>
       <title>Chicago</title>
       <link>https://usehttps.github.io/weather/chicago/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:48 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/chicago/</guid>
       <description>CHICAGO WEATHER</description>
     </item>
-    
     <item>
       <title>Allcopy</title>
       <link>https://usehttps.github.io/weather/allcopy/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:47 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/allcopy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Atlanta</title>
       <link>https://usehttps.github.io/weather/atlanta/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:47 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/atlanta/</guid>
       <description>ATLANTA WEATHER</description>
     </item>
-    
     <item>
       <title>Austin</title>
       <link>https://usehttps.github.io/weather/austin/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:47 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/austin/</guid>
       <description>AUSTIN WEATHER</description>
     </item>
-    
     <item>
       <title>Bangkok</title>
       <link>https://usehttps.github.io/weather/bangkok/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:47 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/bangkok/</guid>
       <description>BANGKOK WEATHER</description>
     </item>
-    
     <item>
       <title>Boston</title>
       <link>https://usehttps.github.io/weather/boston/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:47 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/boston/</guid>
       <description>BOSTON WEATHER</description>
     </item>
-    
     <item>
       <title>Adelaide</title>
       <link>https://usehttps.github.io/weather/adelaide/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:46 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/adelaide/</guid>
       <description>ADELAIDE WEATHER</description>
     </item>
-    
     <item>
       <title>All</title>
       <link>https://usehttps.github.io/weather/all/</link>
       <pubDate>Wed, 27 Dec 2023 11:02:46 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/all/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Abudhabi</title>
       <link>https://usehttps.github.io/weather/abudhabi/</link>
       <pubDate>Wed, 27 Dec 2023 10:53:56 +0100</pubDate>
-      
       <guid>https://usehttps.github.io/weather/abudhabi/</guid>
       <description>ABU DHABI WEATHER</description>
     </item>
-    
   </channel>
 </rss>
