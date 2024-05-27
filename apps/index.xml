@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 12 May 2024 16:00:48 +0100</lastBuildDate><atom:link href="https://usehttps.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 04:45:35 +0200</lastBuildDate><atom:link href="https://usehttps.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ibiza</title>
+      <link>https://usehttps.github.io/apps/ibiza/</link>
+      <pubDate>Mon, 27 May 2024 04:45:35 +0200</pubDate>
+      
+      <guid>https://usehttps.github.io/apps/ibiza/</guid>
+      <description>Our offline app for Ibiza HERE </description>
+    </item>
+    
     <item>
       <title>Santiago</title>
       <link>https://usehttps.github.io/apps/santiago/</link>
@@ -743,7 +752,7 @@
       <pubDate>Mon, 06 Nov 2023 00:47:18 +0100</pubDate>
       
       <guid>https://usehttps.github.io/apps/montreal/</guid>
-      <description>Our offline app for HERE </description>
+      <description>Our offline app for Montreal HERE </description>
     </item>
     
     <item>
