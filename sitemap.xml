@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://usehttps.github.io/plan/</loc>
+    <lastmod>2025-10-27T18:38:34+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/plan/riyadh/</loc>
+    <lastmod>2025-10-27T18:38:34+01:00</lastmod>
+  </url><url>
     <loc>https://usehttps.github.io/best/</loc>
-    <lastmod>2025-10-19T10:43:02+02:00</lastmod>
+    <lastmod>2025-10-27T18:38:33+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/best/riyadh/</loc>
+    <lastmod>2025-10-27T18:38:33+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/all/</loc>
+    <lastmod>2025-10-27T18:38:30+01:00</lastmod>
+  </url><url>
+    <loc>https://usehttps.github.io/all/riyadh/</loc>
+    <lastmod>2025-10-27T18:38:30+01:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/best/paris/</loc>
     <lastmod>2025-10-19T10:43:02+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/plan/paris/</loc>
     <lastmod>2025-10-19T10:43:02+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/plan/</loc>
-    <lastmod>2025-10-19T10:43:02+02:00</lastmod>
-  </url><url>
-    <loc>https://usehttps.github.io/all/</loc>
-    <lastmod>2025-10-19T10:42:58+02:00</lastmod>
   </url><url>
     <loc>https://usehttps.github.io/all/paris/</loc>
     <lastmod>2025-10-19T10:42:58+02:00</lastmod>
